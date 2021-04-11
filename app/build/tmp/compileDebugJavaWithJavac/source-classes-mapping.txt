@@ -1,0 +1,14 @@
+ua/kpi/compys/iv8218/ui/main/Controller.java
+ ua.kpi.compys.iv8218.ui.main.Controller
+ua/kpi/compys/iv8218/MainActivity.java
+ ua.kpi.compys.iv8218.MainActivity
+ua/kpi/compys/iv8218/ui/main/SectionsAdapter.java
+ ua.kpi.compys.iv8218.ui.main.SectionsAdapter
+ua/kpi/compys/iv8218/BuildConfig.java
+ ua.kpi.compys.iv8218.BuildConfig
+ua/kpi/compys/iv8218/ui/main/GraphDiagramElements.java
+ ua.kpi.compys.iv8218.ui.main.GraphDiagramElements
+ua/kpi/compys/iv8218/ui/main/PageViewModel.java
+ ua.kpi.compys.iv8218.ui.main.PageViewModel
+ua/kpi/compys/iv8218/ui/main/PlaceholderFragment.java
+ ua.kpi.compys.iv8218.ui.main.PlaceholderFragment

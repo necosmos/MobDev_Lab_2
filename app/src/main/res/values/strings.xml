@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab 2</string>
+    <string name="title">Lab2_</string>
+    <string name="name"><pre>Пінчук Микита\nГрупа ІВ-82\nЗК ІВ-8218</pre></string>
+    <string name="screen_1">General</string>
+    <string name="screen_2">Item 2</string>
+    <string name="selector">Choose:</string>
+    <string name="diagram">Circle diagram</string>
+    <string name="graphic">Graphic</string>
+</resources>
